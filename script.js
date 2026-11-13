@@ -181,7 +181,7 @@ function checkoutWhatsApp() {
   }
 
   // Replace with your actual WhatsApp number, including country code.
-  const phone = "91XXXXXXXXXX";
+  const phone = "918630293153";
 
   const total = cart.reduce(
     (sum, item) => sum + item.price * item.quantity, 0
